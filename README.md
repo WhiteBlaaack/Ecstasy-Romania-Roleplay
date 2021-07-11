@@ -1,3 +1,3 @@
 # Ecstasy-Romania-Roleplay
 
-Aici va scrieti sugestiile si cu ce pot imbunatatii serverul.
+Pe pagina "Issues" va scrieti sugestiile si cu ce pot imbunatatii serverul.
